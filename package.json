@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/opefago/prmessageHandlerTest/issues"
   },
-  "homepage": "https://github.com/opefago/prmessageHandlerTest#readme"
+  "homepage": "https://github.com/opefago/prmessageHandlerTest#readme",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
 }
