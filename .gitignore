@@ -1,0 +1,11 @@
+node_modules
+.env
+*.js
+*.d.ts
+.idea
+# CDK asset staging directory
+.cdk.staging
+cdk.out
+.DS_Store
+package-lock.json
+*.env
